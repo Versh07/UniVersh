@@ -38,7 +38,7 @@ body {
 /* HERO */
 .hero {
     height: 50vh;
-    background: linear-gradient(-45deg, #0b5d1e, #1e7f34, #ffd700, #0b5d1e);
+    background: linear-gradient(-45deg, #d6e13b, #3e57e3, #6c6332, #b794ef);
     background-size: 400% 400%;
     animation: gradientMove 14s ease infinite;
     position: relative;
